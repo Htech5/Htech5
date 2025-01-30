@@ -86,7 +86,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htech5&hide_border=true&layout=compact" align="center" /></div>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htech5&hide_border=true&layout=compact" align="left" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Htech5&show_icons=true&count_private=true&hide_border=true" align="left" />
 <br/>  
 
 <div align="center">
