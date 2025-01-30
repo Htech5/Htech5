@@ -1,6 +1,3 @@
-<img src="" align="left" style="width: 100%" />  
-  
-
 ### <div align="center">Hi, i'm Habib 💫</div>  
   
 
