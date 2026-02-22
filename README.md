@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Website Angkatan<br>🌱 I’m currently learning Node.js and Express.js<br>💬 Ask me about anything related to IoT, Machine Learning, and Web Development<br>
+🔭 I’m currently working on Website Development & Automation Industry<br>🌱 I’m currently learning Next.js<br>💬 Ask me about anything related to IoT, Machine Learning, and Web Development<br>
 
 
 ## 🌐 Socials:
